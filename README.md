@@ -1,15 +1,18 @@
 
 ## Olá, sou Claubert Vinicius, desenvolvedor Java!
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+<img height="145em"  src="https://c.tenor.com/YbmQHDSJvbkAAAAM/thumbs-up-hacker.gif"/>
+  
+  <h3 font="14px" > ☕ Java  | 🍃 Spring Boot <h3>
+</div>
+
+
+<div align="center">
+  <a href="https://github.com/claubertamsd">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=claubertamsd&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claubertamsd&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
- 
-</div>
-  
+
   ##
  
 <div> 
