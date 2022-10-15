@@ -1,7 +1,7 @@
 
 ## Olá, sou Claubert Vinicius, desenvolvedor Java!
 <div align="center">
-<img height="145em"  src="https://c.tenor.com/YbmQHDSJvbkAAAAM/thumbs-up-hacker.gif"/>
+<img height="145em"  src="https://media1.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif?cid=ecf05e47w3zldp4p3jtswb7k3an05hydig568jzaag8xq1km&rid=giphy.gif&ct=g"/>
   
   <h3 font="14px" > ☕ Java  | 🍃 Spring Boot | PostGree SQL <h3>
 </div>
