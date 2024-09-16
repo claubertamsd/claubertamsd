@@ -1,7 +1,9 @@
 
-<h1> Olá, sou um Programador Java/Spring! </h1>
+<h1> Olá, sou Analista de Sistema </h1>
 
-Bem-vindo(a) ao meu perfil do GitHub! Aqui você encontrará uma variedade de projetos e trabalhos que refletem minha paixão pelo desenvolvimento de software. Sou especializado em Java e tenho experiência com o framework Spring, além de conhecimentos em HTML, CSS e bancos de dados SQL e NoSQL, como PostgreSQL e MongoDB.
+Bem-vindo(a) ao meu perfil no GitHub! Sou um desenvolvedor em constante evolução, com o objetivo de me tornar um profissional completo no desenvolvimento de software. Minha jornada começou com a linguagem Java, onde aprendi os conceitos fundamentais da programação. No entanto, estou sempre aplicando esse conhecimento em outras linguagens, explorando novas sintaxes e tendências do mercado.
+
+Sinta-se à vontade para explorar meus projetos e acompanhar meu progresso. Estou sempre aberto a colaborações e novas oportunidades de aprendizado!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Claubert-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
