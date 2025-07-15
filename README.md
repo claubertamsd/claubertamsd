@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Claubert!
+<h1 align="center">👋 Olá, eu sou o Claubert!</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Analista+de+Sistemas;Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia" alt="Typing SVG" />
